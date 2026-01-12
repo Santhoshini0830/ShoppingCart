@@ -119,7 +119,6 @@ mvn spring-boot:run
 
 * Implemented user authentication and session-based access control
 * Built a complete full-stack application
-* Built a complete full-stack application
 * Hands-on experience with React and Spring Boot integration
 * Implemented real-world e-commerce features
 * Improved UI/UX and responsive design skills
