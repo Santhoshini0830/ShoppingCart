@@ -24,6 +24,13 @@ A **full-stack e-commerce (shopping cart) web application** developed using **Re
 * Wishlist functionality
 * Dynamic cart updates
 
+### 🔐 User Authentication & Security
+
+* User registration (Sign up)
+* User login & logout
+* Authentication-based access to cart, wishlist, and checkout
+* Secure session handling
+
 ### 💳 Checkout Flow
 
 * Checkout page
@@ -110,6 +117,8 @@ mvn spring-boot:run
 
 ## 🎯 Learning Outcomes
 
+* Implemented user authentication and session-based access control
+* Built a complete full-stack application
 * Built a complete full-stack application
 * Hands-on experience with React and Spring Boot integration
 * Implemented real-world e-commerce features
@@ -124,5 +133,4 @@ mvn spring-boot:run
 * Order history and user profiles
 * Admin dashboard
 
-
-⭐ *If you like this project, feel free to star the repository!*
+---
